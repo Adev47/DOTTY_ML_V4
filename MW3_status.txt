@@ -1,1 +1,1 @@
-CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/FiveMExternalChair.exe
+AIO-CHEAT-UA,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/FiveMExternalChair.exe
